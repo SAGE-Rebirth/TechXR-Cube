@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Lowresnewcylinder" version="3.0" targetId="ce4f1ffb3ad3434fb1d59e56007fea8b" sideLength="0.070000" topDiameter="0.100000" bottomDiameter="0.080000" sideImage="Lowresnewcylinder.Body_scaled.jpg" topImage="Lowresnewcylinder.Top_scaled.jpg"/>
+        <CylinderTarget name="Newcylindersquare" version="3.0" targetId="8ff223adfb6347d3b12e385e08dab17a" sideLength="0.700000" topDiameter="1.000000" bottomDiameter="0.800000" sideImage="Newcylindersquare.Body_scaled.jpg" topImage="Newcylindersquare.Top_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
